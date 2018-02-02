@@ -4,7 +4,7 @@
 #
 Name     : libnetfilter_cttimeout
 Version  : 1.0.0
-Release  : 6
+Release  : 7
 URL      : http://netfilter.org/projects/libnetfilter_cttimeout/files/libnetfilter_cttimeout-1.0.0.tar.bz2
 Source0  : http://netfilter.org/projects/libnetfilter_cttimeout/files/libnetfilter_cttimeout-1.0.0.tar.bz2
 Summary  : Netfilter extended cttimeout infrastructure library
